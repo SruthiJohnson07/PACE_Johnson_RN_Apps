@@ -9,7 +9,7 @@ export default function App() {
       <Text>Email: sruthijohnsonofficial@gmail.com</Text>
       <Text>Mob : 4317922883</Text>
       <Text>Interests: Coding, Reading, Listen to Music</Text>
-      <Text>Skills: React Native, JavaScript, Git, SQL</Text>
+      <Text>Skills: React Native, JavaScript, SQL</Text>
     </View>
   );
 }
