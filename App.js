@@ -6,7 +6,8 @@ export default function App() {
     <View style={styles.container}>
       <Text style={styles.header}>My Bio</Text>
       <Text>Name: Sruthi Johnson</Text>
-      <Text>Contact: sruthijohnsonofficial@gmail.com.com</Text>
+      <Text>Email: sruthijohnsonofficial@gmail.com</Text>
+      <Text>Mob : 4317922883</Text>
       <Text>Interests: Coding, Reading, Listen to Music</Text>
       <Text>Skills: React Native, JavaScript, Git, SQL</Text>
     </View>
